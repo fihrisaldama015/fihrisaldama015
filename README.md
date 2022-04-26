@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fihrisaldama015
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js with Firebase
+- 🌱 I’m currently learning React.js, Next.js, Tailwind CSS, MongoDB, Express.js, Firebase
 
 # Current Public link
 https://fihrisaldama015.github.io/
