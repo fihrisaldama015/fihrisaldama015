@@ -1,7 +1,12 @@
-- ### Hi, I’m @fihrisaldama015
-- ### Interested in Web Development
-- ### Currently learning React.js, Next.js, Tailwind CSS, MongoDB, Express.js, Firebase
+# Hi, I’m Muhamad Fihris Aldama
 
+❤️ Interest
+Web Development, Front-end
+
+🛠️ Currently learn
+Currently learning React.js, Next.js, Tailwind CSS, MongoDB, Express.js, Firebase
+
+![](http://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&style=flat&logoColor=black&color=F7DF1E)
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
 ![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
 <!-- ![](http://img.shields.io/badge/-Python-white?logo=python&style=flat&logoColor=white&color=3776AB) -->
@@ -12,7 +17,6 @@
 <!-- ![](http://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=black&color=61DAFB) -->
 <!-- ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED) -->
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
-
 
 # Current Public link
 https://fihrisaldama015.github.io/
