@@ -9,7 +9,7 @@ Web Development, Front-end
 Currently learning React.js, Next.js, Tailwind CSS, MongoDB, Express.js, Firebase 
 
 ![](http://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat&logoColor=orange&color=FFFFFF)
-![](http://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&style=flat&logoColor=black&color=F5E8CF)
+![](http://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&style=flat&logoColor=white&color=3B82F6)
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
 ![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
 ![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
