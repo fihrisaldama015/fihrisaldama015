@@ -2,7 +2,7 @@
 
  -  Study
 
-1st-year Informatics ( Computer Science) at UPN Veteran Jawa Timur
+1st-year Informatics ( Computer Science) student at UPN Veteran Jawa Timur
 
 ❤️ Interest
 
