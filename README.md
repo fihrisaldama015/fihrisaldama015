@@ -4,7 +4,7 @@
 
 Web Development, Front-end
 
-🛠️ Currently learn
+📖 Currently learn
 
 ![](http://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat&logoColor=orange&color=FFFFFF)
 ![](http://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&style=flat&logoColor=white&color=3B82F6)
