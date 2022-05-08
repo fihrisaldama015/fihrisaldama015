@@ -1,8 +1,8 @@
 # Hi, I'm Aldam
 
-- # Study
+ -  Study
 
-1st-year Informatics ( Computer Science) at https://www.upnjatim.ac.id/
+1st-year Informatics ( Computer Science) at UPN Veteran Jawa Timur
 
 ❤️ Interest
 
