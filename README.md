@@ -1,4 +1,8 @@
-# Hi, I’m Muhamad Fihris Aldama
+# Hi, I'm Aldam
+
+- # Study
+
+1st-year Informatics ( Computer Science) at https://www.upnjatim.ac.id/
 
 ❤️ Interest
 
