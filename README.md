@@ -18,9 +18,9 @@ Web Development, Front-end
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
 
 # Current Public link
-note-app-flame.vercel.app
+https://note-app-flame.vercel.app
 
-crud-nextjs-five.vercel.app
+https://crud-nextjs-five.vercel.app
 
 https://fihrisaldama015.github.io/
 
