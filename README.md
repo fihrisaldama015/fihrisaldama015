@@ -20,6 +20,8 @@ Web Development, Front-end
 # Current Public link
 note-app-flame.vercel.app
 
+crud-nextjs-five.vercel.app
+
 https://fihrisaldama015.github.io/
 
 https://basic-next-six.vercel.app/
