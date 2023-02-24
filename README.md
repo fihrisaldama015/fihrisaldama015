@@ -1,8 +1,8 @@
-# Hi, I'm Aldam
+# Hi there, I'm [Aldam] 👋
 
- -  Study
+💻 Study
 
-1st-year Informatics ( Computer Science) student at UPN Veteran Jawa Timur
+2nd-year Informatics ( Computer Science) student at UPN Veteran Jawa Timur
 
 ❤️ Interest
 
@@ -17,16 +17,6 @@ Web Development, Front-end
 ![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
 
-# Current Public link
-https://note-app-flame.vercel.app
-
-https://crud-nextjs-five.vercel.app
-
-https://fihrisaldama015.github.io/
-
-https://basic-next-six.vercel.app/
-
-https://group4-g647.netlify.app/
 <!---
 fihrisaldama015/fihrisaldama015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
