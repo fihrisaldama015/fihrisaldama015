@@ -10,7 +10,7 @@ Web Development, Front-end
 
 📖 Currently learn
 
-![](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](http://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](http://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](http://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&style=flat&logoColor=white&color=3B82F6)
 ![](http://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
