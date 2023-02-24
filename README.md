@@ -19,3 +19,5 @@ Web Development, Front-end
 
 
 [![Aldam's github stats](https://github-readme-stats.vercel.app/api?username=fihrisaldama015&show_icons=true&theme=tokyonight)](https://github.com/fihrisaldama015)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fihrisaldama015&layout=compact&theme=tokyonight)](https://github.com/fihrisaldama015/github-readme-stats)
