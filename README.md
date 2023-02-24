@@ -17,7 +17,5 @@ Web Development, Front-end
 ![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
 
-<!---
-fihrisaldama015/fihrisaldama015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Aldam's github stats](https://github-readme-stats.vercel.app/api?username=fihrisaldama015&show_icons=true&theme=tokyonight)](https://github.com/fihrisaldama015)
