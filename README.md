@@ -1,12 +1,10 @@
 # Hi there, I'm [Aldam](https://github.com/fihrisaldama015) 👋
 
-💻 Study
-
-3rd-year Informatics ( Computer Science) student at UPN Veteran Jawa Timur
+💻 Software Engineer
 
 ❤️ Interest
 
-Web Development, Front-end
+Web Development, Front-end, Back-end, Mobile Development
 
 📖 Currently learn
 
