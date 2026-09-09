@@ -4,20 +4,7 @@
 
 ❤️ Interest
 
-Web Development, Front-end, Back-end, Mobile Development
-
-📖 Currently learn
-
-![](http://img.shields.io/badge/-TailwindCSS-white?logo=tailwindcss&style=flat&logoColor=white&color=3B82F6)
-![](http://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
-![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
-![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
-![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
-![](http://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat&logoColor=orange&color=FFFFFF)
-![](http://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![](http://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![](http://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+Software, Front-end, Back-end, Mobile Development, AI
 
 
 [![Aldam's github stats](https://github-readme-stats-fihrisaldama015.vercel.app/api?username=fihrisaldama015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/fihrisaldama015)
