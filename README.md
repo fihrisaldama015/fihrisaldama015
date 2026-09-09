@@ -22,5 +22,3 @@ Web Development, Front-end, Back-end, Mobile Development
 
 [![Aldam's github stats](https://github-readme-stats-fihrisaldama015.vercel.app/api?username=fihrisaldama015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/fihrisaldama015)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fihrisaldama015&layout=compact&theme=tokyonight)](https://github.com/fihrisaldama015/github-readme-stats)
